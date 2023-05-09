@@ -1,0 +1,3 @@
+runtime: JavaScript # or another supported version
+
+script: index.html
